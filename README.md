@@ -2,6 +2,9 @@
 
 A user-friendly, responsive web application built using modern front-end technologies and a powerful MSSQL database on the back end. This project demonstrates clean UI design, responsiveness across devices, and structured database integration.
 
+
+
+
 🚀 Features
 
 ✅ Fully responsive design (mobile, tablet, desktop)
@@ -16,6 +19,9 @@ A user-friendly, responsive web application built using modern front-end technol
 
 📱 Cross-browser compatibility
 
+
+
+
 🛠️ Technologies Used
 Front-End
 
@@ -29,6 +35,9 @@ Back-End
 
 MSSQL Database – Data storage, queries, and relationships
 
+
+
+
 🎯 Use Case
 
 Learning full-stack web development
@@ -36,6 +45,8 @@ Learning full-stack web development
 College or final-year projects
 
 Small to medium-scale web applications
+
+
 
 📌 Future Enhancements
 
@@ -46,6 +57,8 @@ Small to medium-scale web applications
 📊 Admin dashboard
 
 ☁️ Cloud database hosting
+
+
 
 👨‍💻 Author
 
